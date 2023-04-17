@@ -65,3 +65,7 @@ button[type="submit"]:hover,
   font-weight: bold;
   cursor: pointer;
 }
+.error{
+  color: red;
+  text-align: center;
+}
