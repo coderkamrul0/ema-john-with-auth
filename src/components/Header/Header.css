@@ -16,3 +16,11 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.userEmail{
+    color: white;
+    margin: 0px 15px; 
+}
+.logoutBtn{
+    background: white;
+    color: black;
+}
